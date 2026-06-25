@@ -32,4 +32,4 @@ Never made an open-source contribution before? Wondering how contributions work 
 
 # Where can I go for help?
 
-If you need help, you can ask questions on our **discussions** tab.
+If you need help, you can ask questions on our **[discussions](https://github.com/Cyfrin/foundry-full-course-cu/discussions)** tab.
